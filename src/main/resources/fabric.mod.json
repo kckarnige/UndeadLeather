@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "undeadleather",
+  "version": "${version}",
+  "name": "UndeadLeather",
+  "description": "My take on a \"rotten flesh to leather\" mod.",
+  "authors": [],
+  "contact": {},
+  "license": "MPL-2.0",
+  "icon": "assets/undeadleather/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.kckarnige.undeadleather.Undeadleather"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

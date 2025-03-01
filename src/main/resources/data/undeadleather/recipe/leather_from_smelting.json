@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "undeadleather:rotten_leather"
+  },
+  "result": {
+    "id": "minecraft:leather"
+  }
+}
